@@ -122,6 +122,7 @@ SET(HEADERS
     ../scintilla/lexlib/StyleContext.h
     ../scintilla/lexlib/SubStyles.h
     ../scintilla/lexlib/WordList.h
+    ../scintilla/lexlib/DefaultLexer.h
     ../scintilla/src/AutoComplete.h
     ../scintilla/src/CallTip.h
     ../scintilla/src/CaseConvert.h
@@ -321,6 +322,7 @@ SET(SOURCES
     ../scintilla/lexlib/PropSetSimple.cpp
     ../scintilla/lexlib/StyleContext.cpp
     ../scintilla/lexlib/WordList.cpp
+    ../scintilla/lexlib/DefaultLexer.cpp
     ../scintilla/lexers/LexBibTeX.cpp
     ../scintilla/src/AutoComplete.cpp
     ../scintilla/src/CallTip.cpp
