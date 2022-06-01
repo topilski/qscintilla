@@ -312,6 +312,9 @@ SET(SOURCES
     ../scintilla/lexers/LexDMAP.cpp
     ../scintilla/lexers/LexJSON.cpp
     ../scintilla/lexers/LexEDIFACT.cpp
+    ../scintilla/lexers/LexMaxima.cpp
+    ../scintilla/lexers/LexSAS.cpp
+    ../scintilla/lexers/LexStata.cpp
     ../scintilla/lexlib/Accessor.cpp
     ../scintilla/lexlib/CharacterCategory.cpp
     ../scintilla/lexlib/CharacterSet.cpp
